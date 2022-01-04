@@ -1,2 +1,2 @@
 # Haskell
-This repo contain sample code in Haskell
+This repo contains sample code in Haskell
